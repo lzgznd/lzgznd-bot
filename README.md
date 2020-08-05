@@ -1,4 +1,4 @@
-## R. Danny
+## Luna Bot
 
 A personal bot that runs on Discord.
 
