@@ -1,4 +1,4 @@
-## Luna Bot
+## Virtual Instance of Myself
 
 A personal bot that runs on Discord.
 
